@@ -1,0 +1,16 @@
+{
+  "name": "PWA Básica",
+  "short_name": "PWA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "description": "Web App básica para teste.",
+  "icons": [
+    {
+      "src": "baixando.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
